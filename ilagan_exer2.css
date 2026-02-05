@@ -1,3 +1,4 @@
+/*custom fonts*/
 @font-face { font-family: 'cambo'; src: url(fonts/Cambo-Regular.ttf); }
 @font-face { font-family: 'carattere'; src: url(fonts/Carattere-Regular.ttf); }
 @font-face { font-family: 'days-one'; src: url(fonts/DaysOne-Regular.ttf); }
@@ -28,6 +29,7 @@ html{
     z-index: 2;
 }
 
+/*for the buttons to not be below the other elements*/
 #main-photo,
 #ellipse,
 #left-rectangle,
